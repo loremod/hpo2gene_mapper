@@ -206,7 +206,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d231dfb89cfffdbc30e7fc41579ed6066ad03abda9e567ccafae602b97ec5024"
 
 [[package]]
-name = "hpo2gene_parser"
+name = "hpo2gene_mapper"
 version = "0.1.0"
 dependencies = [
  "anyhow",

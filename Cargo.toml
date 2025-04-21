@@ -1,5 +1,5 @@
 [package]
-name = "hpo2gene_parser"
+name = "hpo2gene_mapper"
 version = "0.1.0"
 edition = "2024"
 
