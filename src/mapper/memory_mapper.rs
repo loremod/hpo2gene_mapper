@@ -133,7 +133,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_streaming_mapper_from_sample_file() -> Result<()> {
+    fn test_memory_mapper_from_sample_file() -> Result<()> {
         let hpo1: TermId = "HP:0002188".parse().unwrap();
         
         let omim1: TermId = "OMIM:619031".parse().unwrap();
